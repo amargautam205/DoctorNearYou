@@ -1,0 +1,25 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+    font-family: 'Mulish', sans-serif;
+}
+.header{
+    height: 90vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(https://images.pexels.com/photos/5407215/pexels-photo-5407215.jpeg);
+    color:window;
+    background-size: cover;
+}
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+.btn{
+    border-radius: 10rem !important;
+    padding: 0.5rem 0.5rem !important;
+}
+.message{
+   background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+}
+.AppointmentSection{
+    background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+}

@@ -1,0 +1,13 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+    font-family: 'Mulish', sans-serif;
+}
+.header
+{
+    height: 90vh;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/5327653/pexels-photo-5327653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    color:window;
+    background-size: cover;
+}
+

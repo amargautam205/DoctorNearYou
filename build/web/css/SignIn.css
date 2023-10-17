@@ -1,0 +1,8 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+    font-family: 'Mulish', sans-serif;
+}
+.btn{
+    border-radius: 10rem !important;
+    padding: 0.5rem 0.5rem !important;
+}
